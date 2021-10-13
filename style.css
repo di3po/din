@@ -1,0 +1,17 @@
+body {
+    background-color: #483D8B;
+    color: #FFFAFA;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+#app a {
+    text-decoration: none;
+    color: #FF1493;
+}
